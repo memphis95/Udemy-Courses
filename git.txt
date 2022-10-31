@@ -1,0 +1,3 @@
+Version Control system - it allows to track changes in the source code and configuration.
+Examples of VCS - git, cvs, subversion etc.
+Git - it doesnot store differences in files, it stores link to the snapshot of changed files.
